@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quent043/solidity-react-voting/static/css/main.9ac20e3b.css",
+    "main.js": "/quent043/solidity-react-voting/static/js/main.f2ba6dd5.js",
+    "index.html": "/quent043/solidity-react-voting/index.html",
+    "main.9ac20e3b.css.map": "/quent043/solidity-react-voting/static/css/main.9ac20e3b.css.map",
+    "main.f2ba6dd5.js.map": "/quent043/solidity-react-voting/static/js/main.f2ba6dd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac20e3b.css",
+    "static/js/main.f2ba6dd5.js"
+  ]
+}
