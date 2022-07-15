@@ -5,8 +5,7 @@
   "engines": {
     "node": "16.x"
   },
-  "homepage": "https://github.com/quent043/solidity-react-voting",
-
+  "homepage": "https://github.com/quent043/solidity-react-voting/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
